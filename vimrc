@@ -1,4 +1,4 @@
-let $BASH_ENV = "~/.bash_aliases"
+let $BASH_ENV = $HOME . "/.bash_aliases"
 
 " misc
 set tabstop=4
