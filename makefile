@@ -4,4 +4,4 @@ install:
 	mkdir -p "$$HOME/.vim/colors"
 	cp vim/colors/* ~/.vim/colors/
 	mkdir -p "$$HOME/.vim/templates"
-	cp vim/templates/* ~/.vim/templates/
+	cp -r vim/templates/* ~/.vim/templates/
