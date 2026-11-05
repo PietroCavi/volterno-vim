@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/cavi/Downloads'
+let g:netrw_dirhist_2='/home/cavi'
+let g:netrw_dirhist_1='/home/cavi/Desktop'
+let g:netrw_dirhist_0='/home/cavi/Desktop/volterno-http'
+let g:netrw_dirhist_9='/home/cavi/Desktop/utils'
+let g:netrw_dirhist_8='/home/cavi/Desktop'
+let g:netrw_dirhist_7='/home/cavi/Desktop/http_server'
+let g:netrw_dirhist_6='/home/cavi/Desktop'
+let g:netrw_dirhist_5='/home/cavi'
+let g:netrw_dirhist_4='/home'
