@@ -20,4 +20,4 @@ install-git:
 	mkdir -p "$$HOME/.vim/templates"
 	cp -r templates/* ~/.vim/templates/
 	grep -qxF "source ~/.vim/volterno-vim.vim" "$$HOME/.vimrc" || printf "\nsource ~/.vim/volterno-vim.vim" >> "$$HOME/.vimrc"
-	cp -r LICENSE README.md makefile .git "$$HOME/.vim"
+	cp -r LICENSE README.md makefile .gitignore .git "$$HOME/.vim"
